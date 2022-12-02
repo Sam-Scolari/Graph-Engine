@@ -1,0 +1,7 @@
+{
+  "name": "graphengine",
+  "version": "0.0.0",
+  "description": "A Flow-Based Programming (FBP) engine",
+  "main": "index.js",
+  "type": "module"
+}
